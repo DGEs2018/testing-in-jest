@@ -4,7 +4,8 @@ const googleDatabase = [
 	'flowers.com',
 	'animals.com',
 	'catpictures.com',
-	'myfavouritecats.com'
+	'myfavouritecats.com',
+	'morefavouritecats.com'
 ];
 
 //maybe if somebody is looking for cats, return something similar
